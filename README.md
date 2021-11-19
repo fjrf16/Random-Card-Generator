@@ -19,11 +19,12 @@ Project is created with:
 ### Setup
 To run this project:
 
-*) clone this repository or the boilerplate and then open the index.html, just like this:
+* If you are working locally clone this repository just like this:
 ```
 $ git clone https://github.com/fjrf16/Random-Card-Generator
 ```
-The next step is to open the index.html
+The next step is to open the index.html.
+
 --------------------------------------------------------------
 ## DESCRIPTION
 
