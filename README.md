@@ -17,13 +17,13 @@ Project is created with:
 * DOM
 
 ### Setup
-To run this project, install it locally using npm:
+To run this project:
 
+*) clone this repository or the boilerplate and then open the index.html, just like this:
 ```
-$ cd card ramdom generator
-$ npm install
-$ npm run start
+$ git clone https://github.com/fjrf16/Random-Card-Generator
 ```
+The next step is to open the index.html
 --------------------------------------------------------------
 ## DESCRIPTION
 
